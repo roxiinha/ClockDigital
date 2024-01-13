@@ -1,0 +1,21 @@
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #2ecc71; /* Nova cor de fundo (verde) */
+}
+
+.clock {
+    font-family: 'Arial', sans-serif;
+    font-size: 4em;
+    color: #fff; /* Cor do texto (branco) */
+    text-align: center;
+    padding: 20px;
+    border: 2px solid #333;
+    border-radius: 10px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin: auto; /* Centralizar */
+}
